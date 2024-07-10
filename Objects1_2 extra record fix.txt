@@ -1,0 +1,1 @@
+need to clear listy=[] after writing jsut like listtos3
